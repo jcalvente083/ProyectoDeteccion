@@ -1,0 +1,14 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Variables de entorno (¡Tus contraseñas!)
+.env
+
+# Carpetas autogeneradas
+avisos/
+__pycache__/
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints/

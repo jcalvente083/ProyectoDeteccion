@@ -1,0 +1,5 @@
+* Instalación de UV.
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex
+
+* Permisos de ejecución de Scripts en terminal.
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser

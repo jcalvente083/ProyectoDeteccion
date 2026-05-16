@@ -1,0 +1,19 @@
+[project]
+name = "proyectodeteccion"
+version = "0.1.0"
+description = "Este proyecto desarrolla un bot completo desde 0 para Telegram. 
+Dicho bot se encarga de la detección de ciertas clases con la ayuda de un modelo 
+de Visión Artificial como es YOLO y realiza los pertinentes avisos. Por otro lado, 
+permite editar la lista de usuarios a los que notificar, encender y apagar las 
+notificaciones de forma personalizada, Encender/Apagar el sistema y la determinación
+de un umbral de detección."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "opencv-python>=4.13.0.92",
+    "psutil>=7.2.2",
+    "python-dotenv>=1.2.2",
+    "python-telegram-bot>=22.7",
+    "schedule>=1.2.2",
+    "ultralytics>=8.4.50",
+]

@@ -1,0 +1,14 @@
+* Presentación.
+https://canva.link/lw3gvlogqxknavs
+
+* Clases que detecta YOLO
+https://docs.ultralytics.com/es/datasets/detect
+
+* YOLOv8
+https://yolov8.com/
+
+* Webcams públicas
+https://www.skylinewebcams.com/es/webcam.html
+
+
+
